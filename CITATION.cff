@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Parsons"
+  given-names: "Christian"
+title: "Four-Probe Resistance Measurement Code"
+version: 2.2.0
+date-released: 2024-06-28
+url: "https://github.com/ChristianParsons98/Four_Probe_Res"
